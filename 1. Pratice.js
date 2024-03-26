@@ -2,7 +2,7 @@
 const product = {
   productName: "Parker Jotter Standard CT Ball Pen (Black)",
   productRating: "4 Star",
-  ratedByPeople: 7002,
+  ratedByPeople: 7500,
   dealStatus: "Deal of the Day",
   isThereADeal: true,
   price: 270,
