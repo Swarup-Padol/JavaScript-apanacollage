@@ -5,4 +5,4 @@ Mentor - Shradha Khapra
 <br/>
 This the repo for my JavaScript learning.
 <br/>
-Author - Swarup Padol
+Author - Swarup C. Padol
