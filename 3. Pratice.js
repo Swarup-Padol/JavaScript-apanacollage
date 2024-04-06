@@ -1,3 +1,4 @@
+/* Loop's */
 // Question No. 1
 for (let question1 = 0; question1 <= 100; question1++) {
   if (question1 % 2 === 0) {
@@ -18,3 +19,12 @@ while (gameNum != userNum) {
 }
 
 console.log("Congratulations! You won the game.");
+
+/* String's */
+// Question No. 1
+let fullName = prompt("Enter your full name (without spaces):");
+
+let preUsername = fullName.trim();
+let postUsername = preUsername.toLowerCase();
+
+let username = console.log(`Hello! @${postUsername}${postUsername.length}`);
