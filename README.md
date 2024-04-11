@@ -1,5 +1,4 @@
 # JavaScript-apanacollage
-<br/>
 Mentor - Shradha Khapra
 <br/>
 <br/>
