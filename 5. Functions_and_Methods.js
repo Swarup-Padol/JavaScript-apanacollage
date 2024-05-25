@@ -1,5 +1,7 @@
+// Hello function
 alert("Hello!");
 
+// Original code 
 function myFuncation() {
   console.log("Welcome!");
   console.log("I am learning JavaScript :)");
@@ -98,4 +100,4 @@ const largestNumber = numbers.reduce((result, current) => {
   return result > current ? result : current;
 });
 
-console.log(largestNumber);
+console.log(largestNumber); Output
